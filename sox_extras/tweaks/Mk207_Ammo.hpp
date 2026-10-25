@@ -29,7 +29,7 @@
 	};
 	class Mk207_338: B_338_Ball
 	{
-		hit = 30;
+		hit = 50;
 		caliber = 2.8;
         timeToLive=10;
         airFriction=-0.00060841;
