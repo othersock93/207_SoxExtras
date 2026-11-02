@@ -18,17 +18,26 @@
 				values[] =
 				{
 					"AMC",
-					"AMP"
+					"AMP",
+					"BLK"
 				};
 				class AMC
 				{
 					label = "AMC";
+					image = "\sox_extras\ui\amc_co.paa";
 					description = "Australian Multicam";
 				};
 				class AMP
 				{
 					label = "AMP";
+					image = "\sox_extras\ui\amp_co.paa";
 					description = "Australian Multi Pattern";
+				};
+				class BLK
+				{
+					label = "Black";
+					image = "#(rgb,1,1,1)color(0.062745,0.062745,0.062745,1)";
+					description = "Black AMC";
 				};
 			};
 			class earpro
@@ -224,6 +233,70 @@
 				{
 					label = "Rolled";
 					description = "Some Roll";
+				};
+			};
+		};
+
+		class cvc_helm
+		{
+			label = "Gentex CVC M9";
+			author = "Socks | ADF Re-Cut";
+			options[] =
+			{
+				"colour",
+				"patch"
+			};
+			class colour
+			{
+				label = "Helmet Colour";
+				alwaysSelectable = 1;
+				values[] =
+				{
+					"Tan",
+					"OD"
+				};
+				class Tan
+				{
+					label = "Tan";
+					image = "#(rgb,1,1,1)color(0.570,0.460,0.329,1)";
+					description = "Tan Spray";
+				};
+				class OD
+				{
+					label = "OD";
+					image = "#(rgb,1,1,1)color(0.232,0.301,0.159,1)";
+					description = "OD Spray";
+				};
+			};
+			class patch
+			{
+				label = "Helmet Art";
+				values[] = 
+				{
+					"Fox_1",
+					"Fox_2",
+					"Dsy_1",
+					"Dsy_2"
+				};
+				class Fox_1
+				{
+					label = "Foxtrot 1";
+					description = "Foxtrot Art";
+				};
+				class Fox_2
+				{
+					label = "Foxtrot 2";
+					description = "Foxtrot Art";
+				};
+				class Dsy_1
+				{
+					label = "Daisy 1";
+					description = "Daisy Art";
+				};
+				class Dsy_2
+				{
+					label = "Daisy 2";
+					description = "Daisy Art";
 				};
 			};
 		};

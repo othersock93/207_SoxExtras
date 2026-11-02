@@ -409,19 +409,19 @@
 		displayName = "EXFIL Rail 3.0 (Amps, Bravo)";
 		hiddenSelectionsTextures[] = 
 		{
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_cover_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_rails_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_helstar_ca.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_co.paa",
+			"\sox_extras\headgear\tx\blk_cover_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_rails_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_helstar_ca.paa",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_battery_pack_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_patch_left_co.paa",
+			"\sox_extras\headgear\tx\blk_patch_co.paa",
 			"\sox_extras\headgear\tx\Bravo_co.paa", // Replace
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_arms_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_amp_arms_co.paa",
 			"",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_mic_co.paa",
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_cups_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_amp_cups_co.paa",
 			"",
 			"#(rgb,8,8,3)color(0.062745,0.062745,0.062745,1)",
 			"",
@@ -430,7 +430,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+			camo = "BLK";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Bravo";
@@ -442,28 +442,28 @@
 		displayName = "EXFIL Rail 3.0 (Amps, Bravo, Scrim)";
 		hiddenSelectionsTextures[] = 
 		{
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_cover_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_rails_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_helstar_ca.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_co.paa",
+			"\sox_extras\headgear\tx\blk_cover_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_rails_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_helstar_ca.paa",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_battery_pack_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_patch_left_co.paa",
+			"\sox_extras\headgear\tx\blk_patch_co.paa",
 			"\sox_extras\headgear\tx\Bravo_co.paa", // Replace
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_arms_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_amp_arms_co.paa",
 			"",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_mic_co.paa",
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_amp_cups_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_amp_cups_co.paa",
 			"",
 			"#(rgb,8,8,3)color(0.062745,0.062745,0.062745,1)",
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_scrim_co.paa"
+			"\sox_extras\headgear\tx\blk_scrim_co.paa"
 		};
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+			camo = "BLK";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Bravo";
@@ -475,12 +475,12 @@
 		displayName = "EXFIL Rail 3.0 (Comtac-6, Bravo)";
 		hiddenSelectionsTextures[] = 
 		{
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_cover_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_rails_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_helstar_ca.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_co.paa",
+			"\sox_extras\headgear\tx\blk_cover_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_rails_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_helstar_ca.paa",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_battery_pack_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_patch_left_co.paa",
+			"\sox_extras\headgear\tx\blk_patch_co.paa",
 			"\sox_extras\headgear\tx\Bravo_co.paa", // Replace
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_comtac_6_co.paa",
 			"",
@@ -496,7 +496,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+			camo = "BLK";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Bravo";
@@ -508,12 +508,12 @@
 		displayName = "EXFIL Rail 3.0 (Comtac-6, Bravo, Scrim)";
 		hiddenSelectionsTextures[] = 
 		{
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_cover_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_rails_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_helstar_ca.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_co.paa",
+			"\sox_extras\headgear\tx\blk_cover_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_rails_co.paa",
+			"\sox_extras\headgear\tx\teamwendy_blk_helstar_ca.paa",
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_battery_pack_co.paa",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_patch_left_co.paa",
+			"\sox_extras\headgear\tx\blk_patch_co.paa",
 			"\sox_extras\headgear\tx\Bravo_co.paa", // Replace
 			"\ADF_Gear\adfrc_helmets\data\teamwendy_comtac_6_co.paa",
 			"",
@@ -524,12 +524,12 @@
 			"",
 			"",
 			"",
-			"\ADF_Gear\adfrc_helmets\data\teamwendy_scrim_co.paa"
+			"\sox_extras\headgear\tx\blk_scrim_co.paa"
 		};
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+			camo = "BLK";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Bravo";

@@ -52,22 +52,9 @@ class cfgWeapons
 {
 	#include "uni\uniforms_w.hpp"
 	#include "headgear\wendy.hpp"
-//	#include "headgear\hats.hpp"
+	#include "headgear\headgear.hpp"
 //	#include "vests\vests.hpp"
 	#include "tweaks\SMA_Fix.hpp"
-
-	class H_Booniehat_khk_hs;
-
-	class 207_ampu_boonie: H_Booniehat_khk_hs
-	{
-		author = "Socks";
-		scope = 2;
-		displayName = "Booniehat w/ Comms (AMP)";
-		model = "\A3\Characters_F_EPB\Common\booniehat_hs.p3d";
-		picture = "\A3\Characters_F\data\ui\icon_h_booniehat_mcamo_ca.paa";
-		hiddenSelections[] = {"Camo"};
-		hiddenSelectionsTextures[] = {"\sox_extras\headgear\tx\amp_boonie_co.paa"};
-	};
 };
 
 class CfgAmmo
