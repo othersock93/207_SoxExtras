@@ -31,7 +31,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		////	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "D207";
@@ -64,7 +64,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		////	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "D207";
@@ -97,7 +97,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		////	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "D207";
@@ -130,7 +130,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		////	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "D207";
@@ -164,7 +164,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "PHQ";
@@ -197,7 +197,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "PHQ";
@@ -230,7 +230,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "PHQ";
@@ -263,7 +263,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "PHQ";
@@ -297,7 +297,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Alpha";
@@ -330,7 +330,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Alpha";
@@ -363,7 +363,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Alpha";
@@ -396,7 +396,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Alpha";
@@ -430,7 +430,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "BLK";
+		//	camo = "BLK";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Bravo";
@@ -463,7 +463,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "BLK";
+		//	camo = "BLK";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Bravo";
@@ -496,7 +496,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "BLK";
+		//	camo = "BLK";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Bravo";
@@ -529,7 +529,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "BLK";
+		//	camo = "BLK";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Bravo";
@@ -563,7 +563,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Charlie";
@@ -596,7 +596,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Charlie";
@@ -629,7 +629,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Charlie";
@@ -662,7 +662,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Charlie";
@@ -696,7 +696,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Reaper";
@@ -729,7 +729,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Reaper";
@@ -762,7 +762,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Reaper";
@@ -795,7 +795,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Reaper";
@@ -829,7 +829,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Starlight";
@@ -862,7 +862,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Starlight";
@@ -895,7 +895,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Starlight";
@@ -928,7 +928,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Starlight";
@@ -962,7 +962,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "off";
 			patch = "SHQ";
@@ -995,7 +995,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "on";
 			patch = "SHQ";
@@ -1028,7 +1028,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "SHQ";
@@ -1061,7 +1061,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "SHQ";
@@ -1095,7 +1095,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Foxtrot";
@@ -1128,7 +1128,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Foxtrot";
@@ -1161,7 +1161,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Foxtrot";
@@ -1194,7 +1194,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Foxtrot";
@@ -1228,7 +1228,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Ghost";
@@ -1261,7 +1261,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Ghost";
@@ -1294,7 +1294,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Ghost";
@@ -1327,7 +1327,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMP";
+		//	camo = "AMP";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Ghost";
@@ -1361,7 +1361,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Hawkeye";
@@ -1394,7 +1394,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Hawkeye";
@@ -1427,7 +1427,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Hawkeye";
@@ -1460,7 +1460,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Hawkeye";
@@ -1494,7 +1494,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "off";
 			patch = "Defend";
@@ -1527,7 +1527,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "amps";
 			scrim = "on";
 			patch = "Defend";
@@ -1560,7 +1560,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "off";
 			patch = "Defend";
@@ -1593,7 +1593,7 @@
 		class XtdGearInfo
 		{
 			model = "patch_helm";
-			camo = "AMC";
+		//	camo = "AMC";
 			earpro = "comtac";
 			scrim = "on";
 			patch = "Defend";

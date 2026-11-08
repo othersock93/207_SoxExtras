@@ -1,0 +1,8 @@
+// Organised classNames for Sox_Extras
+
+D207_unf = [];
+D207_Vests = [];
+D207_Backpacks = ["adfrc_patrol_bullock_amcu_177","adfrc_patrol_bullock_ampu_177"];
+D207_Hats = ["207_amcu_boonie","207_CVC_Tan_D1","207_CVC_Tan_D2","207_CVC_Tan_F1","207_CVC_Tan_F2","207_CVC_OD_D1","207_CVC_OD_D2","207_CVC_OD_F1","207_CVC_OD_F2"];
+D207_Gen = [];
+D207_eyewear = [];

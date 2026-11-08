@@ -49,6 +49,7 @@ Class list for items included in Sox Extras
 "207_Exfil_AMPS_A",
 "207_Exfil_AMPS_Scrim_207",
 "207_Exfil_AMPS_207",
+"207_ampu_boonie",
 "skull_bala_b1",
 "skull_bala_o1",
 "skull_bala_t1",

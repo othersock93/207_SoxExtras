@@ -6,12 +6,12 @@
 			author = "Socks | ADF Re-Cut";
 			options[] =
 			{
-				"camo",
+			//	"camo",
 				"earpro",
 				"scrim",
 				"patch"
 			};
-			class camo
+		/*	class camo
 			{
 				label = "Camo Pattern"
 				alwaysSelectable = 1;
@@ -39,7 +39,7 @@
 					image = "#(rgb,1,1,1)color(0.062745,0.062745,0.062745,1)";
 					description = "Black AMC";
 				};
-			};
+			};*/
 			class earpro
 			{
 				label = "Earpro";

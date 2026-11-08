@@ -27,6 +27,7 @@ class CfgPatches
 			"adfrc_facewear",
 			"adfrc_helmets",
 			"adfrc_magazines",
+			"ADFRC_Backpacks",
 			"Extended_EventHandlers",
 			"female3_ICEMAN",
 			"mas_aus_lite_common",
@@ -45,7 +46,7 @@ class XtdGearModels
 class cfgVehicles
 {
 	#include "uni\uniforms_v.hpp"
-//	#include "bags\bags.hpp"
+	#include "bags\bags.hpp"
 };
 
 class cfgWeapons

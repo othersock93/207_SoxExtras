@@ -11,6 +11,17 @@
 		hiddenSelections[] = {"Camo"};
 		hiddenSelectionsTextures[] = {"\sox_extras\headgear\tx\amp_boonie_co.paa"};
 	};
+    
+    class 207_amcu_boonie: H_Booniehat_khk_hs
+	{
+		author = "Socks";
+		scope = 2;
+		displayName = "Booniehat w/ Comms (AMC)";
+		model = "\A3\Characters_F_EPB\Common\booniehat_hs.p3d";
+		picture = "\A3\Characters_F\data\ui\icon_h_booniehat_mcamo_ca.paa";
+		hiddenSelections[] = {"Camo"};
+		hiddenSelectionsTextures[] = {"\sox_extras\headgear\tx\amc_boonie_co.paa"};
+	};
 
     class 207_CVC_Tan_F1: ADFRC_Gentex_CVC_Tan_M9
     {
@@ -43,7 +54,7 @@
 
     class 207_CVC_Tan_F2: ADFRC_Gentex_CVC_Tan_M9
     {
-        scope = 2;
+        scope = 0;
         author = "Socks | ADF Re-Cut";
         displayName = "Gentex CVC (Foxtrot 2, Tan)";
         hiddenSelections[] = {"camo"};
@@ -57,7 +68,7 @@
     };
     class 207_CVC_OD_F2: ADFRC_Gentex_CVC_Tan_M9
     {
-        scope = 2;
+        scope = 0;
         author = "Socks | ADF Re-Cut";
         displayName = "Gentex CVC (Foxtrot 2, Olive)";
         hiddenSelections[] = {"camo"};
