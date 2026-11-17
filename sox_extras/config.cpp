@@ -23,7 +23,7 @@ class CfgPatches
 			"A3_Characters_F_EPB",
 			"A3_Weapons_F",
 			"A3_Weapons_F_Mark",
-			//"ADF_Core",
+			"ADF_Core",
 			"adfrc_facewear",
 			"adfrc_helmets",
 			"adfrc_magazines",
